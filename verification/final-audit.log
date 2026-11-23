@@ -1,0 +1,4 @@
+'RH01.casimirRiemannHypothesis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RH01.continuedHeat_residue_at_casimir' depends on axioms: [propext, Classical.choice, Quot.sound]
+RH01.casimirRiemannHypothesis uses the expected proof route (1478318 declarations checked)
+RH01.continuedHeat_residue_at_casimir uses the expected proof route (55837 declarations checked)

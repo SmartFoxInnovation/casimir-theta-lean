@@ -1,0 +1,10 @@
+name = "rh01_parallel_pack"
+defaultTargets = ["pack-published-terms"]
+
+[[lean_lib]]
+name = "ExportParse"
+
+[[lean_exe]]
+name = "pack-published-terms"
+root = "PackPublishedTerms"
+supportInterpreter = true

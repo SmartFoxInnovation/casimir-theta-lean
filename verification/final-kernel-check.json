@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-21T12:48:08+00:00",
+  "theorem": "RH01.casimirRiemannHypothesis",
+  "axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "lean_version": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib_commit": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "arithmetic_batch_hashes_checked": 31,
+  "end_to_end_receipt_sha256": "f9480916b1810ea5af01cd44daebc4a540deb66873f2bda5c9e0ca0de818ecf4",
+  "arithmetic_ledger_sha256": "74c69f027de6f0abbe72d3b9046980225e98815f3cd49655bbbc57fa86ae3cbf",
+  "final_modules_kernel_replayed": [
+    "RH01.HeatBoundary",
+    "RH01.SignedTransforms",
+    "PublishedWindowArithmetic",
+    "PublishedMellin",
+    "RecoveredPublishedInputs",
+    "RecoveredPublishedNamespaces",
+    "PublishedWindows",
+    "PublishedCasimir",
+    "EndToEndAudit"
+  ],
+  "sha256": {
+    "EndToEndAudit.log": "e4addadcaf88d32a91ee4df22a3489ddfb7e161ed542fc4ddcb854435b343638",
+    "kernel-replay.log": "39a6a8ff4c769ee9163b34f5520cd41e5c984b6ca3be623d0914d0729053beef"
+  }
+}
